@@ -1,0 +1,16 @@
+ipykernel
+ipython
+ipywidgets
+mlflow
+numpy
+pandas
+pillow
+tqdm
+torch 
+torchvision 
+torchaudio 
+torchmetrics
+timm
+huggingface-hub
+datasets
+pytorch_lightning
